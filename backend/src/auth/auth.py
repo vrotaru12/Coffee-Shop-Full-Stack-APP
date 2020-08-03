@@ -7,7 +7,7 @@ from urllib.request import urlopen
 
 AUTH0_DOMAIN = 'MYAUTH.eu.auth0.com'
 ALGORITHMS = ['RS256']
-API_AUDIENCE = 'FullStackAPP'
+API_AUDIENCE = 'API_AUDIENCE'
 
 ## AuthError Exception
 '''
